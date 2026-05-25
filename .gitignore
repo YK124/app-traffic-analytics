@@ -1,0 +1,8 @@
+# 로컬 가속화 및 결과 데이터 제외
+*.csv
+*.xlsx
+*.log
+
+# 실행 환경 임시 파일 제외
+.DS_Store
+Thumbs.db
